@@ -14,4 +14,5 @@ public abstract class Roomuc2 {
         System.out.println("Size: " + squareFeet + " sqft");
         System.out.println("Price per night: " + pricePerNight);
     }
+
 }
